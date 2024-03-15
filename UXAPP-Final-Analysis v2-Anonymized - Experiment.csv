@@ -1,0 +1,660 @@
+Participant,Product,Record Link,Evaluated Link,Task Objective,Task Start Time,Initial Emotional State,Task End Time,Final Emotional State,Task Success,Status Script,I think that I would like to use this system frequently,I found the system unnecessarily complex,I thought the system was easy to use,I think that I would need the support of a technical person to be able to use this system,I found the various functions in this system were well-integrated,I thought there was too much inconsistency in this system,I would imagine that most people would learn to use this system very quickly,I found the system very cumbersome to use,I felt very confident using the system,I needed to learn a lot of things before I could get going with this system,Manual Geral Satisfaction,Positive Sentiment Peak,Negative Sentiment Peak,Usability Informed,Usability Identified,Affect Identified,User Value Identified,User Experience Evaluation,Positive Sentiment Peak Identified,Negative Sentiment Peak Identified,Usability Score Informed (SUS),Usability Score Identified (SUS),All Positive Sentiment Identified,All Negative Sentiment Identified,Job Start,Job End,Evaluated Audio Link,Evaluated Subtitle Link,Evaluated AI SUS Sentences Link,SUS Identified Q1,SUS Identified Q2,SUS Identified Q3,SUS Identified Q4,SUS Identified Q5,SUS Identified Q6,SUS Identified Q7,SUS Identified Q8,SUS Identified Q9,SUS Identified Q10,Final
+[Anonimized],[Anonymized],[Anonymized],[Anonymized],Describe what UXAPP is and what it is for,1/22/2024 2:56:20 PM,Positive,1/22/2024 15:02:00,Positive,Yes,DONE,Agree,Strongly disagree,Strongly agree,Disagree,Agree,Disagree,Agree,Disagree,Agree,Strongly disagree,Satisfied,Image detailing the system,Popup for personal data,Good,Good,Positive,Satisfied,Good,"Satisfied(video) - 0m33s
+Satisfied(video) - 0m39s
+Satisfied(video) - 0m46s
+Satisfied(video) - 1m0s
+Positive (speech) - 1m7s",Negative (speech) - 2m55s,82.5,65,"Satisfied(video) - 0m33s
+Satisfied(video) - 0m39s
+Satisfied(video) - 0m46s
+Satisfied(video) - 1m0s
+Positive (speech) - 0m52s
+Positive (speech) - 0m59s
+Positive (speech) - 1m0s
+Positive (speech) - 1m7s
+Positive (speech) - 1m16s
+Positive (speech) - 1m23s
+Positive (speech) - 1m30s
+Positive (speech) - 1m56s
+Positive (speech) - 2m8s
+Positive (speech) - 2m14s
+Positive (speech) - 2m18s
+Positive (speech) - 2m30s
+Positive (speech) - 2m45s
+Positive (speech) - 3m0s
+Positive (speech) - 3m6s
+Positive (speech) - 3m18s
+Positive (speech) - 3m45s
+Positive (speech) - 3m49s
+Positive (speech) - 4m0s
+Positive (speech) - 4m7s
+Positive (speech) - 4m30s
+Positive (speech) - 4m37s
+Positive (speech) - 4m42s","Negative (speech) - 0m30s
+Negative (speech) - 0m34s
+Negative (speech) - 0m38s
+Negative (speech) - 1m27s
+Negative (speech) - 2m50s
+Negative (speech) - 2m55s
+Negative (speech) - 3m35s",10:45:00,10:59:20,[Anonymized],[Anonymized],[Anonymized],1,1,4,1,5,5,4,1,2,2,1
+[Anonymized],[Anonymized],[Anonymized],[Anonymized],Request an invitation to install UXAPP,1/22/2024 3:13:23 PM,Positive,1/22/2024 15:20:00,Negative,Yes,DONE,Neither agree nor disagree,Agree,Disagree,Disagree,Neither agree nor disagree,Agree,Disagree,Agree,Disagree,Disagree,Dissatisfied,Finding the right invite location,Entrance popup,Neutral,Neutral,Negative,Neither satisfied nor dissatisfied,Neither good nor poor,Positive (speech) - 3m44s,Negative (speech) - 1m41s,40,47.5,Positive (speech) - 3m44s,"Negative (speech) - 0m10s
+Negative (speech) - 1m17s
+Negative (speech) - 1m32s
+Negative (speech) - 1m41s
+Negative (speech) - 2m33s
+Negative (speech) - 2m37s
+Negative (speech) - 2m50s
+Negative (speech) - 2m55s
+Negative (speech) - 3m0s
+Negative (speech) - 3m11s
+Negative (speech) - 3m17s
+Negative (speech) - 3m38s
+Negative (speech) - 4m0s
+Negative (speech) - 4m27s
+Negative (speech) - 4m30s
+Negative (speech) - 4m37s
+Negative (speech) - 4m41s",11:01:12,11:15:38,[Anonymized],[Anonymized],[Anonymized],1,4,2,5,5,5,5,4,5,1,1
+[Anonymized],[Anonymized],[Anonymized],[Anonymized],Get a usability test script with UXBOT,1/22/2024 3:24:05 PM,Positive,1/22/2024 15:35:00,Negative,No,DONE,Disagree,Strongly agree,Strongly disagree,Strongly agree,Disagree,Agree,Disagree,Agree,Disagree,Neither agree nor disagree,Dissatisfied,Find a hidden link,Not finding the script in the first few minutes,Poor,Poor,Negative,Neither satisfied nor dissatisfied,Poor,Positive (speech) - 6m27s,Negative (speech) - 5m42s,20,17.5,Positive (speech) - 6m27s,"Negative (speech) - 0m30s
+Negative (speech) - 0m43s
+Negative (speech) - 0m53s
+Negative (speech) - 1m3s
+Negative (speech) - 1m14s
+Negative (speech) - 1m32s
+Negative (speech) - 2m47s
+Negative (speech) - 3m0s
+Negative (speech) - 3m6s
+Negative (speech) - 3m36s
+Negative (speech) - 4m2s
+Negative (speech) - 4m21s
+Negative (speech) - 5m4s
+Negative (speech) - 5m12s
+Negative (speech) - 5m42s
+Negative (speech) - 5m47s
+Negative (speech) - 5m52s
+Negative (speech) - 6m3s
+Negative (speech) - 6m18s
+Negative (speech) - 6m36s",11:52:15,12:12:06,[Anonymized],[Anonymized],[Anonymized],1,4,2,5,2,5,2,4,2,4,1
+[Anonymized],[Anonymized],[Anonymized],[Anonymized],Share the UXBOT website,1/22/2024 3:37:27 PM,Positive,1/22/2024 15:41:00,Neutral,Yes,DONE,Agree,Strongly disagree,Strongly agree,Strongly disagree,Strongly agree,Strongly disagree,Strongly agree,Strongly disagree,Strongly agree,Strongly disagree,Very satisfied,Find the sharing location,The personal data registration popup,Good,Good,Positive,Neither satisfied nor dissatisfied,Good,"Positive (speech) - 2m0s
+Positive (speech) - 2m27s",Negative (speech) - 1m12s,97.5,65,"Positive (speech) - 0m30s
+Positive (speech) - 1m0s
+Positive (speech) - 1m30s
+Positive (speech) - 1m36s
+Positive (speech) - 1m43s
+Positive (speech) - 2m0s
+Positive (speech) - 2m19s
+Positive (speech) - 2m27s
+Positive (speech) - 2m30s","Negative (speech) - 1m12s
+Negative (speech) - 1m57s",12:20:07,12:33:02,[Anonymized],[Anonymized],[Anonymized],2,2,2,1,4,1,4,2,4,4,1
+[Anonymized],[Anonymized],[Anonymized],[Anonymized],Describe what UXAPP is and what it is for.,1/24/2024 14:32:06,Negative,1/24/2024 14:50:12,Negative,No,DONE,Disagree,Strongly agree,Strongly disagree,Strongly agree,Disagree,Agree,Disagree,Strongly agree,Agree,Agree,Dissatisfied,none,"frustrated, the several times I tried to register the information and it was not possible throughout the test, confused because when the error was indicated, it was not possible to correct it.",Poor,Poor,Negative,Satisfied,Neither good nor poor,"Satisfied(video) - 7m30s
+Positive (speech) - 0m1s",Negative (speech) - 1m20s,20,25,"Satisfied(video) - 7m30s
+Positive (speech) - 0m1s","Negative (speech) - 1m20s
+Negative (speech) - 1m30s
+Negative (speech) - 1m35s
+Negative (speech) - 2m9s
+Negative (speech) - 2m25s
+Negative (speech) - 2m30s
+Negative (speech) - 3m1s
+Negative (speech) - 3m37s
+Negative (speech) - 4m0s
+Negative (speech) - 4m41s
+Negative (speech) - 4m52s
+Negative (speech) - 5m14s
+Negative (speech) - 5m31s
+Negative (speech) - 5m42s
+Negative (speech) - 6m51s
+Negative (speech) - 7m46s
+Negative (speech) - 8m15s
+Negative (speech) - 8m22s
+Negative (speech) - 9m1s",17:01:49,17:18:04,[Anonymized],[Anonymized],[Anonymized],2,4,2,2,2,5,1,4,2,4,1
+[Anonymized],[Anonymized],[Anonymized],[Anonymized],Request an invitation to install UXAPP.,1/24/2024 2:56:34 PM,Negative,1/24/2024 15:05:18,Negative,No,DONE,Disagree,Neither agree nor disagree,Disagree,Strongly agree,Disagree,Agree,Agree,Agree,Disagree,Agree,Dissatisfied,a priori I found it simple and easy,"very frustrated, because although it seems to be easy, I couldn't progress, which caused me irritation.",Poor,Neutral,Negative,Satisfied,Neither good nor poor,"Satisfied(video) - 0m16s
+Positive (speech) - 1m5s",Negative (speech) - 4m2s,30,37.5,"Satisfied(video) - 0m16s
+Positive (speech) - 1m5s","Negative (speech) - 0m16s
+Negative (speech) - 1m0s
+Negative (speech) - 3m55s
+Negative (speech) - 4m2s
+Negative (speech) - 4m10s
+Negative (speech) - 4m15s
+Negative (speech) - 4m30s
+Negative (speech) - 4m34s
+Negative (speech) - 4m43s
+Negative (speech) - 4m51s",12:21:15,12:41:18,[Anonymized],[Anonymized],[Anonymized],2,3,3,4,2,3,2,3,3,4,1
+[Anonymized],[Anonymized],[Anonymized],[Anonymized],Get a usability test script,1/24/2024 3:09:20 PM,Negative,1/24/2024 15:18:19,Positive,Yes,DONE,Agree,Disagree,Agree,Disagree,Agree,Disagree,Agree,Disagree,Agree,Neither agree nor disagree,Satisfied,In the middle of the test I believe I found the way and I was very satisfied.,"I didn't start, I felt lost.",Good,Good,Positive,Satisfied,Good,"Satisfied(video) - 1m55s
+Positive (speech) - 5m33s",Negative (speech) - 0m41s,72.5,75,"Satisfied(video) - 1m55s
+Positive (speech) - 2m3s
+Positive (speech) - 4m0s
+Positive (speech) - 5m14s
+Positive (speech) - 5m33s
+Positive (speech) - 5m38s
+Positive (speech) - 5m42s",Negative (speech) - 0m41s,12:20:46,12:42:46,[Anonymized],[Anonymized],[Anonymized],4,2,4,2,4,2,4,2,4,2,1
+[Anonymized],[Anonymized],[Anonymized],[Anonymized],Share the UXAPP website,1/24/2024 3:21:22 PM,Neutral,1/24/2024 15:27:27,Positive,Yes,DONE,Agree,Disagree,Agree,Disagree,Neither agree nor disagree,Disagree,Agree,Disagree,Agree,Agree,Satisfied,"Throughout the test I felt confident, I felt good finding out how to share the app.",No negative feelings.,Good,Neutral,Negative,Neither satisfied nor dissatisfied,Neither good nor poor,Positive (speech) - 4m20s,Negative (speech) - 2m4s,67.5,35,Positive (speech) - 4m20s,"Negative (speech) - 1m21s
+Negative (speech) - 2m4s
+Negative (speech) - 2m39s
+Negative (speech) - 3m2s
+Negative (speech) - 4m14s",12:20:33,12:37:08,[Anonymized],[Anonymized],[Anonymized],2,3,3,5,2,3,2,3,3,4,1
+[Anonymized],[Anonymized],[Anonymized],[Anonymized],Describe what UXAPP is and what it is for,1/24/2024 5:06:46 PM,Neutral,1/24/2024 17:17:34,Negative,Yes,DONE,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Strongly agree,Neither agree nor disagree,Neither agree nor disagree,Disagree,Neither agree nor disagree,Strongly disagree,Strongly agree,Neither satisfied nor dissatisfied,"When opening the application, I found the website beautiful and that gave me satisfaction","When the data filling form appeared, I was scared and repulsed when providing the information",Poor,Good,Neutral,Satisfied,Good,"Satisfied(video) - 4m12s
+Satisfied(video) - 4m12s
+Positive (speech) - 0m31s",Negative (speech) - 4m1s,32.5,90,"Satisfied(video) - 2m34s
+Satisfied(video) - 3m0s
+Satisfied(video) - 4m12s
+Satisfied(video) - 4m15s
+Satisfied(video) - 4m30s
+Positive (speech) - 0m31s
+Positive (speech) - 4m48s
+Positive (speech) - 6m51s
+Positive (speech) - 6m59s","Negative (speech) - 0m41s
+Negative (speech) - 0m52s
+Negative (speech) - 1m0s
+Negative (speech) - 1m26s
+Negative (speech) - 1m30s
+Negative (speech) - 1m36s
+Negative (speech) - 2m9s
+Negative (speech) - 3m0s
+Negative (speech) - 3m9s
+Negative (speech) - 3m20s
+Negative (speech) - 3m30s
+Negative (speech) - 3m48s
+Negative (speech) - 4m1s
+Negative (speech) - 4m15s
+Negative (speech) - 4m30s
+Negative (speech) - 5m12s",12:22:01,12:59:48,[Anonymized],[Anonymized],[Anonymized],5,1,5,5,5,1,5,1,5,1,1
+[Anonymized],[Anonymized],[Anonymized],[Anonymized],Request an invitation to install UXAPP,1/24/2024 5:21:21 PM,Negative,1/24/2024 17:26:36,Negative,No,DONE,Strongly disagree,Disagree,Agree,Strongly disagree,Strongly disagree,Strongly agree,Strongly agree,Disagree,Strongly disagree,Strongly disagree,Very unsatisfied,None,When I entered the correct email and it reported that it was invalid. It left me frustrated and angry,Neutral,Poor,Negative,Neither satisfied nor dissatisfied,Poor,Positive (speech) - 2m19s,"Negative (speech) - 3m10s
+Negative (speech) - 3m30s",52.5,20,"Positive (speech) - 1m0s
+Positive (speech) - 1m29s
+Positive (speech) - 2m19s","Negative (speech) - 0m30s
+Negative (speech) - 0m58s
+Negative (speech) - 1m6s
+Negative (speech) - 1m19s
+Negative (speech) - 1m31s
+Negative (speech) - 2m30s
+Negative (speech) - 2m36s
+Negative (speech) - 2m43s
+Negative (speech) - 3m0s
+Negative (speech) - 3m10s
+Negative (speech) - 3m30s
+Negative (speech) - 3m39s",12:22:17,12:41:41,[Anonymized],[Anonymized],[Anonymized],1,5,2,5,2,5,2,4,4,4,1
+[Anonymized],[Anonymized],[Anonymized],[Anonymized],Get a usability test script,1/24/2024 5:28:56 PM,Negative,1/24/2024 17:38:28,Positive,Yes,DONE,Strongly agree,Disagree,Agree,Disagree,Agree,Strongly disagree,Agree,Disagree,Agree,Disagree,Very satisfied,"I felt accomplished when I saw that the questionnaire was personalized, not generic",I got impatient when I had to wait almost 1 minute for a response,Good,Neutral,Neutral,Satisfied,Neither good nor poor,"Satisfied(video) - 5m42s
+Satisfied(video) - 5m42s
+Satisfied(video) - 5m45s
+Satisfied(video) - 5m48s
+Satisfied(video) - 5m51s
+Positive (speech) - 1m0s",Negative (speech) - 1m11s,80,47.5,"Satisfied(video) - 1m30s
+Satisfied(video) - 5m40s
+Satisfied(video) - 5m42s
+Satisfied(video) - 5m45s
+Satisfied(video) - 5m48s
+Satisfied(video) - 5m51s
+Satisfied(video) - 5m54s
+Satisfied(video) - 7m4s
+Satisfied(video) - 7m6s
+Satisfied(video) - 7m10s
+Satisfied(video) - 7m12s
+Positive (speech) - 0m46s
+Positive (speech) - 1m0s
+Positive (speech) - 3m28s
+Positive (speech) - 4m44s
+Positive (speech) - 5m42s
+Positive (speech) - 6m57s
+Positive (speech) - 7m30s","Negative (speech) - 1m11s
+Negative (speech) - 1m23s
+Negative (speech) - 1m40s
+Negative (speech) - 2m30s
+Negative (speech) - 3m30s
+Negative (speech) - 4m57s
+Negative (speech) - 5m1s
+Negative (speech) - 5m10s
+Negative (speech) - 5m12s
+Negative (speech) - 5m23s
+Negative (speech) - 6m28s
+Negative (speech) - 6m42s",14:45:34,15:23:21,[Anonymized],[Anonymized],[Anonymized],5,5,4,1,2,5,1,2,1,1,1
+[Anonymized],[Anonymized],[Anonymized],[Anonymized],Share the UXAPP website,1/24/2024 5:40:35 PM,Positive,1/24/2024 17:44:53,Neutral,Yes,DONE,Agree,Disagree,Agree,Strongly disagree,Strongly agree,Disagree,Agree,Disagree,Neither agree nor disagree,Strongly disagree,Satisfied,I was very pleased to see that Facebook sharing was fully functional,I was confused when I went to share it via email and disappointed when I saw that there were no details about the software in the automated message.,Good,Poor,Neutral,Satisfied,Neither good nor poor,"Satisfied(video) - 2m6s
+Positive (speech) - 3m14s",Negative (speech) - 1m30s,80,25,"Satisfied(video) - 2m6s
+Positive (speech) - 0m31s
+Positive (speech) - 1m25s
+Positive (speech) - 2m31s
+Positive (speech) - 3m14s","Negative (speech) - 1m12s
+Negative (speech) - 1m30s
+Negative (speech) - 1m41s
+Negative (speech) - 1m46s
+Negative (speech) - 2m8s
+Negative (speech) - 2m14s
+Negative (speech) - 2m54s",12:21:50,12:40:04,[Anonymized],[Anonymized],[Anonymized],1,4,2,4,2,5,1,4,5,4,1
+[Anonymized],[Anonymized],[Anonymized],[Anonymized],Describe what UXAPP is and what it is for,1/24/2024 7:19:19 PM,Neutral,1/24/2024 19:38:21,Neutral,No,DONE,Neither agree nor disagree,Agree,Agree,Disagree,Neither agree nor disagree,Disagree,Agree,Disagree,Agree,Agree,Neither satisfied nor dissatisfied,First contact with the page. Presentable layout.,"Contact the information contained in the ""frequently asked questions"". Diagrams a little complex/confusing.",Neutral,Poor,Negative,Neither satisfied nor dissatisfied,Poor,Positive (speech) - 0m30s,"Negative (speech) - 4m30s
+Negative (speech) - 10m32s",60,10,"Positive (speech) - 0m0s
+Positive (speech) - 0m30s
+Positive (speech) - 4m56s
+Positive (speech) - 5m24s
+Positive (speech) - 10m55s","Negative (speech) - 1m0s
+Negative (speech) - 1m35s
+Negative (speech) - 2m30s
+Negative (speech) - 2m43s
+Negative (speech) - 3m1s
+Negative (speech) - 3m8s
+Negative (speech) - 3m13s
+Negative (speech) - 3m22s
+Negative (speech) - 4m6s
+Negative (speech) - 4m15s
+Negative (speech) - 4m27s
+Negative (speech) - 4m30s
+Negative (speech) - 5m2s
+Negative (speech) - 5m33s
+Negative (speech) - 6m52s
+Negative (speech) - 7m10s
+Negative (speech) - 7m32s
+Negative (speech) - 7m42s
+Negative (speech) - 7m58s
+Negative (speech) - 8m11s
+Negative (speech) - 8m12s
+Negative (speech) - 8m43s
+Negative (speech) - 9m4s
+Negative (speech) - 9m51s
+Negative (speech) - 10m12s
+Negative (speech) - 10m25s
+Negative (speech) - 10m32s
+Negative (speech) - 10m41s
+Negative (speech) - 11m55s
+Negative (speech) - 12m2s
+Negative (speech) - 12m11s",17:26:50,17:50:59,[Anonymized],[Anonymized],[Anonymized],1,5,1,5,2,5,2,4,2,5,1
+[Anonymized],[Anonymized],[Anonymized],[Anonymized],Request an invitation to install UXAPP,1/24/2024 7:43:19 PM,Neutral,1/24/2024 19:49:57,Neutral,No,DONE,Disagree,Disagree,Agree,Strongly disagree,Disagree,Strongly agree,Agree,Disagree,Disagree,Disagree,Dissatisfied,Layout and simplicity of the form.,Error on the website to accept the indicated email.,Neutral,Poor,Negative,Neither satisfied nor dissatisfied,Poor,Positive (speech) - 2m22s,Negative (speech) - 3m40s,55,17.5,"Positive (speech) - 2m22s
+Positive (speech) - 3m15s","Negative (speech) - 0m0s
+Negative (speech) - 0m12s
+Negative (speech) - 1m14s
+Negative (speech) - 1m37s
+Negative (speech) - 1m46s
+Negative (speech) - 2m0s
+Negative (speech) - 2m30s
+Negative (speech) - 2m38s
+Negative (speech) - 2m56s
+Negative (speech) - 3m8s
+Negative (speech) - 3m31s
+Negative (speech) - 3m40s
+Negative (speech) - 3m49s
+Negative (speech) - 3m56s",13:06:30,13:32:21,[Anonymized],[Anonymized],[Anonymized],2,4,2,5,2,5,2,4,2,5,1
+[Anonymized],[Anonymized],[Anonymized],[Anonymized],Get a usability test script,1/24/2024 7:52:25 PM,Neutral,1/24/2024 20:00:16,Positive,Yes,DONE,Agree,Disagree,Agree,Strongly disagree,Agree,Strongly disagree,Agree,Disagree,Agree,Disagree,Very satisfied,Moment when the robot (AI) gave the first response.,Robot response time.,Good,Poor,Positive,Neither satisfied nor dissatisfied,Neither good nor poor,Positive (speech) - 5m12s,Negative (speech) - 1m6s,80,17.5,"Positive (speech) - 3m0s
+Positive (speech) - 4m12s
+Positive (speech) - 4m31s
+Positive (speech) - 4m38s
+Positive (speech) - 4m46s
+Positive (speech) - 5m0s
+Positive (speech) - 5m7s
+Positive (speech) - 5m12s
+Positive (speech) - 5m20s","Negative (speech) - 0m1s
+Negative (speech) - 0m43s
+Negative (speech) - 1m6s
+Negative (speech) - 2m42s",13:06:19,13:41:34,[Anonymized],[Anonymized],[Anonymized],1,4,2,5,2,5,2,4,3,5,1
+[Anonymized],[Anonymized],[Anonymized],[Anonymized],Share the UXAPP website,1/24/2024 8:02:34 PM,Neutral,1/24/2024 20:08:16,Neutral,Yes,DONE,Neither agree nor disagree,Disagree,Agree,Strongly disagree,Neither agree nor disagree,Neither agree nor disagree,Agree,Disagree,Neither agree nor disagree,Strongly disagree,Neither satisfied nor dissatisfied,Attempt to share on Twitter,Attempt to share via email.,Good,Neutral,Neutral,Neither satisfied nor dissatisfied,Neither good nor poor,Positive (speech) - 3m0s,Negative (speech) - 1m30s,70,55,"Positive (speech) - 2m0s
+Positive (speech) - 2m32s
+Positive (speech) - 3m0s
+Positive (speech) - 3m37s","Negative (speech) - 0m21s
+Negative (speech) - 0m30s
+Negative (speech) - 0m45s
+Negative (speech) - 1m23s
+Negative (speech) - 1m30s
+Negative (speech) - 1m48s
+Negative (speech) - 3m19s",13:05:53,13:32:05,[Anonymized],[Anonymized],[Anonymized],3,1,1,3,2,1,5,5,4,3,1
+[Anonymized],[Anonymized],[Anonymized],[Anonymized],Describe what UXAPP is and what it is for.,1/25/2024 2:23:43 PM,Neutral,1/25/2024 14:45:29,Negative,No,DONE,Neither agree nor disagree,Neither agree nor disagree,Disagree,Agree,Neither agree nor disagree,Neither agree nor disagree,Disagree,Neither agree nor disagree,Neither agree nor disagree,Agree,Neither satisfied nor dissatisfied,MOMENT OF INITIAL ACCESS TO THE SITE (I liked the design),"During attempted use, too much information",Neutral,Neutral,Negative,Neither satisfied nor dissatisfied,Neither good nor poor,Positive (speech) - 1m0s,"Negative (speech) - 2m57s
+Negative (speech) - 3m1s",40,35,"Positive (speech) - 0m34s
+Positive (speech) - 0m45s
+Positive (speech) - 1m0s
+Positive (speech) - 2m4s
+Positive (speech) - 2m15s","Negative (speech) - 0m12s
+Negative (speech) - 1m36s
+Negative (speech) - 2m30s
+Negative (speech) - 2m57s
+Negative (speech) - 3m1s
+Negative (speech) - 5m3s
+Negative (speech) - 5m42s
+Negative (speech) - 5m51s
+Negative (speech) - 6m13s
+Negative (speech) - 8m57s
+Negative (speech) - 9m47s",13:07:17,13:54:55,[Anonymized],[Anonymized],[Anonymized],1,3,4,4,5,5,1,3,2,4,1
+[Anonymized],[Anonymized],[Anonymized],[Anonymized],Request an invitation to install UXAPP,1/25/2024 2:52:56 PM,Neutral,1/25/2024 14:59:30,Negative,No,DONE,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Neither agree nor disagree,Disagree,Neither agree nor disagree,Neither agree nor disagree,Disagree,Dissatisfied,"Easy, intuitive visual even if you don't know English",should tell you what is filled out wrong,Neutral,Poor,Negative,Neither satisfied nor dissatisfied,Poor,Positive (speech) - 1m2s,Negative (speech) - 2m30s,45,27.5,"Positive (speech) - 0m53s
+Positive (speech) - 1m2s","Negative (speech) - 1m14s
+Negative (speech) - 1m30s
+Negative (speech) - 2m3s
+Negative (speech) - 2m10s
+Negative (speech) - 2m30s
+Negative (speech) - 2m43s
+Negative (speech) - 3m30s",13:07:37,13:25:22,[Anonymized],[Anonymized],[Anonymized],2,4,2,4,3,5,3,4,2,4,1
+[Anonymized],[Anonymized],[Anonymized],[Anonymized],Get a usability test script,1/25/2024 3:02:01 PM,Neutral,1/25/2024 15:10:19,Negative,No,DONE,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Agree,Neither agree nor disagree,Disagree,Neither agree nor disagree,Neither agree nor disagree,Disagree,Neither agree nor disagree,Dissatisfied,It seems easy to understand the information requested,"improve filling in the phone number, make it easier",Neutral,Poor,Negative,Neither satisfied nor dissatisfied,Poor,Positive (speech) - 0m7s,Negative (speech) - 4m32s,47.5,17.5,"Positive (speech) - 0m7s
+Positive (speech) - 5m0s","Negative (speech) - 2m2s
+Negative (speech) - 4m27s
+Negative (speech) - 4m32s
+Negative (speech) - 4m45s
+Negative (speech) - 4m49s",13:07:27,13:33:36,[Anonymized],[Anonymized],[Anonymized],1,5,2,4,2,5,2,4,2,4,1
+[Anonymized],[Anonymized],[Anonymized],[Anonymized],Share the UXAPP website,1/25/2024 3:12:58 PM,Neutral,1/25/2024 15:20:34,Negative,No,DONE,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Disagree,Neither agree nor disagree,Dissatisfied,none,could not acess,Neutral,Poor,Negative,Neither satisfied nor dissatisfied,Poor,,Negative (speech) - 1m0s,45,22.5,None,"Negative (speech) - 0m11s
+Negative (speech) - 0m18s
+Negative (speech) - 1m0s
+Negative (speech) - 1m44s",13:07:09,13:35:10,[Anonymized],[Anonymized],[Anonymized],2,5,2,3,2,5,2,4,2,4,1
+[Anonymized],[Anonymized],[Anonymized],[Anonymized],Describe what UXAPP is and what it is for,1/25/2024 3:36:36 PM,Positive,1/25/2024 15:46:20,Neutral,Yes,DONE,Disagree,Disagree,Agree,Neither agree nor disagree,Neither agree nor disagree,Disagree,Disagree,Agree,Agree,Agree,Satisfied,at the beginning when I opened the website,the email and linkedin link buttons were overlapping one of the website links,Neutral,Poor,Negative,Neither satisfied nor dissatisfied,Poor,Positive (speech) - 0m40s,Negative (speech) - 2m30s,50,27.5,"Positive (speech) - 0m40s
+Positive (speech) - 1m24s
+Positive (speech) - 3m56s
+Positive (speech) - 5m42s
+Positive (speech) - 6m3s","Negative (speech) - 0m0s
+Negative (speech) - 0m30s
+Negative (speech) - 1m0s
+Negative (speech) - 1m6s
+Negative (speech) - 2m21s
+Negative (speech) - 2m30s
+Negative (speech) - 2m47s
+Negative (speech) - 4m0s
+Negative (speech) - 4m17s
+Negative (speech) - 4m38s
+Negative (speech) - 5m12s
+Negative (speech) - 5m24s
+Negative (speech) - 5m40s",13:46:32,14:30:30,[Anonymized],[Anonymized],[Anonymized],2,5,2,4,5,5,2,4,2,4,1
+[Anonymized],[Anonymized],[Anonymized],[Anonymized],Request an invitation to install UXAPP,1/25/2024 3:52:07 PM,Positive,1/25/2024 15:57:35,Negative,No,DONE,Strongly disagree,Strongly disagree,Agree,Strongly agree,Strongly agree,Disagree,Disagree,Disagree,Agree,Strongly disagree,Neither satisfied nor dissatisfied,moment when I found the field,"when there was an error sending the invitation, even with a valid email address",Neutral,Neutral,Neutral,Neither satisfied nor dissatisfied,Neither good nor poor,Positive (speech) - 0m0s,Negative (speech) - 1m11s,62.5,52.5,"Positive (speech) - 0m0s
+Positive (speech) - 1m45s
+Positive (speech) - 1m52s","Negative (speech) - 0m17s
+Negative (speech) - 1m11s
+Negative (speech) - 2m0s
+Negative (speech) - 2m10s
+Negative (speech) - 2m36s",13:46:49,14:08:07,[Anonymized],[Anonymized],[Anonymized],2,1,4,5,2,1,2,2,4,4,1
+[Anonymized],[Anonymized],[Anonymized],[Anonymized],Get a usability test script,1/25/2024 4:00:36 PM,Positive,1/25/2024 16:09:34,Negative,No,DONE,Strongly disagree,Agree,Agree,Strongly agree,Neither agree nor disagree,Neither agree nor disagree,Disagree,Agree,Neither agree nor disagree,Agree,Dissatisfied,the usability of the website,not having found the usability test script,Poor,Neutral,Neutral,Satisfied,Neither good nor poor,"Satisfied(video) - 5m27s
+Satisfied(video) - 5m30s
+Satisfied(video) - 5m48s
+Positive (speech) - 1m0s",Negative (speech) - 5m14s,32.5,40,"Satisfied(video) - 5m27s
+Satisfied(video) - 5m30s
+Satisfied(video) - 5m46s
+Satisfied(video) - 5m48s
+Satisfied(video) - 5m51s
+Positive (speech) - 1m0s","Negative (speech) - 1m30s
+Negative (speech) - 2m5s
+Negative (speech) - 2m24s
+Negative (speech) - 2m30s
+Negative (speech) - 2m52s
+Negative (speech) - 4m1s
+Negative (speech) - 5m5s
+Negative (speech) - 5m14s
+Negative (speech) - 5m42s",13:46:42,14:26:08,[Anonymized],[Anonymized],[Anonymized],4,4,2,2,2,4,2,4,2,2,1
+[Anonymized],[Anonymized],[Anonymized],[Anonymized],Share the UXAPP website,1/25/2024 4:11:48 PM,Positive,1/25/2024 16:17:04,Positive,Yes,DONE,Neither agree nor disagree,Strongly disagree,Strongly agree,Strongly disagree,Agree,Strongly disagree,Strongly agree,Disagree,Agree,Disagree,Very satisfied,The moment I found the site's sharing options,"When trying to send the site share by email, which was not possible",Good,Poor,Neutral,Neither satisfied nor dissatisfied,Neither good nor poor,Positive (speech) - 2m33s,Negative (speech) - 0m8s,85,15,"Positive (speech) - 1m50s
+Positive (speech) - 2m33s
+Positive (speech) - 2m45s","Negative (speech) - 0m8s
+Negative (speech) - 0m20s
+Negative (speech) - 0m42s
+Negative (speech) - 1m31s",13:46:25,14:06:07,[Anonymized],[Anonymized],[Anonymized],1,5,2,4,2,5,1,4,2,4,1
+[Anonymized],[Anonymized],[Anonymized],[Anonymized],Describe what the UX APP is for,1/25/2024 7:45:09 PM,Positive,1/25/2024 20:02:54,Neutral,Yes,DONE,Strongly agree,Strongly disagree,Strongly agree,Strongly disagree,Agree,Disagree,Agree,Disagree,Agree,Disagree,Satisfied,The most positive thing was when I was able to access the website.,The most negative was on the home page looking for access to the site.,Good,Neutral,Positive,Satisfied,Good,"Satisfied(video) - 0m18s
+Satisfied(video) - 0m18s
+Satisfied(video) - 0m39s
+Satisfied(video) - 1m51s
+Satisfied(video) - 1m57s
+Satisfied(video) - 2m30s
+Satisfied(video) - 2m54s
+Satisfied(video) - 3m3s
+Satisfied(video) - 3m15s
+Satisfied(video) - 3m21s
+Positive (speech) - 1m4s
+Positive (speech) - 2m31s",Negative (speech) - 1m47s,85,55,"Satisfied(video) - 0m13s
+Satisfied(video) - 0m18s
+Satisfied(video) - 0m24s
+Satisfied(video) - 0m39s
+Satisfied(video) - 1m9s
+Satisfied(video) - 1m13s
+Satisfied(video) - 1m15s
+Satisfied(video) - 1m43s
+Satisfied(video) - 1m49s
+Satisfied(video) - 1m51s
+Satisfied(video) - 1m57s
+Satisfied(video) - 2m1s
+Satisfied(video) - 2m22s
+Satisfied(video) - 2m30s
+Satisfied(video) - 2m36s
+Satisfied(video) - 2m43s
+Satisfied(video) - 2m45s
+Satisfied(video) - 2m49s
+Satisfied(video) - 2m52s
+Satisfied(video) - 2m54s
+Satisfied(video) - 3m3s
+Satisfied(video) - 3m15s
+Satisfied(video) - 3m19s
+Satisfied(video) - 3m21s
+Satisfied(video) - 3m27s
+Satisfied(video) - 4m3s
+Satisfied(video) - 4m6s
+Positive (speech) - 0m30s
+Positive (speech) - 1m4s
+Positive (speech) - 2m0s
+Positive (speech) - 2m24s
+Positive (speech) - 2m31s
+Positive (speech) - 3m8s
+Positive (speech) - 3m13s
+Positive (speech) - 3m30s","Negative (speech) - 1m22s
+Negative (speech) - 1m33s
+Negative (speech) - 1m47s
+Negative (speech) - 3m45s",14:00:33,14:26:19,[Anonymized],[Anonymized],[Anonymized],4,5,1,1,5,1,5,5,1,2,1
+[Anonymized],[Anonymized],[Anonymized],[Anonymized],Request an invitation to install the UX APP,1/25/2024 8:10:23 PM,Positive,1/25/2024 20:15:50,Negative,Yes,DONE,Neither agree nor disagree,Agree,Agree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Neither agree nor disagree,Disagree,Agree,Neither satisfied nor dissatisfied,I found the site interesting and it caught my attention and I wanted to check it out. I was happy with a tool to improve user usability.,I was frustrated because I couldn't request my invitation.,Neutral,Poor,Positive,Satisfied,Neither good nor poor,"Satisfied(video) - 0m48s
+Satisfied(video) - 0m48s
+Satisfied(video) - 0m54s
+Satisfied(video) - 0m57s
+Satisfied(video) - 1m9s
+Satisfied(video) - 1m12s
+Satisfied(video) - 1m18s
+Satisfied(video) - 2m6s
+Satisfied(video) - 2m9s
+Satisfied(video) - 2m12s
+Satisfied(video) - 2m21s
+Satisfied(video) - 2m24s
+Satisfied(video) - 2m39s
+Satisfied(video) - 3m3s
+Satisfied(video) - 3m24s
+",Negative (speech) - 2m55s,40,17.5,"Satisfied(video) - 0m33s
+Satisfied(video) - 0m46s
+Satisfied(video) - 0m48s
+Satisfied(video) - 0m52s
+Satisfied(video) - 0m54s
+Satisfied(video) - 0m57s
+Satisfied(video) - 1m7s
+Satisfied(video) - 1m9s
+Satisfied(video) - 1m12s
+Satisfied(video) - 1m18s
+Satisfied(video) - 1m43s
+Satisfied(video) - 2m6s
+Satisfied(video) - 2m9s
+Satisfied(video) - 2m12s
+Satisfied(video) - 2m15s
+Satisfied(video) - 2m19s
+Satisfied(video) - 2m21s
+Satisfied(video) - 2m24s
+Satisfied(video) - 2m33s
+Satisfied(video) - 2m39s
+Satisfied(video) - 2m45s
+Satisfied(video) - 3m0s
+Satisfied(video) - 3m3s
+Satisfied(video) - 3m15s
+Satisfied(video) - 3m24s
+Satisfied(video) - 3m27s
+","Negative (speech) - 0m30s
+Negative (speech) - 2m33s
+Negative (speech) - 2m55s
+Negative (speech) - 3m0s",14:00:45,14:21:48,[Anonymized],[Anonymized],[Anonymized],1,4,2,5,2,5,2,4,2,4,1
+[Anonymized],[Anonymized],[Anonymized],[Anonymized],Get a usability test script,1/25/2024 8:22:17 PM,Positive,1/25/2024 20:30:25,Neutral,No,DONE,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Agree,Disagree,Agree,Disagree,Agree,Neither agree nor disagree,Satisfied,I got excited when trying to look for a test script. I was happy.,I was frustrated because I couldn't find the test script.,Neutral,Poor,Positive,Satisfied,Neither good nor poor,"Satisfied(video) - 0m36s
+Satisfied(video) - 0m36s
+Satisfied(video) - 0m39s
+Satisfied(video) - 2m54s
+Satisfied(video) - 4m39s
+",Negative (speech) - 4m12s,62.5,20,"Satisfied(video) - 0m25s
+Satisfied(video) - 0m36s
+Satisfied(video) - 0m39s
+Satisfied(video) - 1m1s
+Satisfied(video) - 1m3s
+Satisfied(video) - 1m19s
+Satisfied(video) - 1m22s
+Satisfied(video) - 1m25s
+Satisfied(video) - 1m37s
+Satisfied(video) - 2m34s
+Satisfied(video) - 2m43s
+Satisfied(video) - 2m45s
+Satisfied(video) - 2m54s
+Satisfied(video) - 4m1s
+Satisfied(video) - 4m3s
+Satisfied(video) - 4m28s
+Satisfied(video) - 4m39s
+Satisfied(video) - 5m10s
+Satisfied(video) - 5m15s
+","Negative (speech) - 1m11s
+Negative (speech) - 1m50s
+Negative (speech) - 2m4s
+Negative (speech) - 2m34s
+Negative (speech) - 3m22s
+Negative (speech) - 3m30s
+Negative (speech) - 3m47s
+Negative (speech) - 4m12s
+Negative (speech) - 4m30s
+Negative (speech) - 5m4s",14:00:18,14:32:20,[Anonymized],[Anonymized],[Anonymized],1,3,1,5,2,3,2,5,3,5,1
+[Anonymized],[Anonymized],[Anonymized],[Anonymized],Share the UX APP website,1/25/2024 8:32:16 PM,Positive,1/25/2024 20:38:36,Positive,Yes,DONE,Agree,Disagree,Neither agree nor disagree,Disagree,Neither agree nor disagree,Neither agree nor disagree,Agree,Disagree,Neither agree nor disagree,Neither agree nor disagree,Satisfied,I was pleased to be able to share the site.,"I had trouble finding the share, but it was at the bottom of the site. I felt confused because I thought I didn't have it, but I found it.",Neutral,Good,Positive,Satisfied,Good,"Satisfied(video) - 0m12s
+Satisfied(video) - 0m12s
+Satisfied(video) - 1m12s
+Satisfied(video) - 1m15s
+Satisfied(video) - 1m18s
+Satisfied(video) - 1m21s
+Satisfied(video) - 1m24s
+Satisfied(video) - 1m27s
+Positive (speech) - 0m3s",Negative (speech) - 4m0s,62.5,70,"Satisfied(video) - 0m9s
+Satisfied(video) - 0m12s
+Satisfied(video) - 0m21s
+Satisfied(video) - 0m31s
+Satisfied(video) - 0m36s
+Satisfied(video) - 1m10s
+Satisfied(video) - 1m12s
+Satisfied(video) - 1m15s
+Satisfied(video) - 1m18s
+Satisfied(video) - 1m21s
+Satisfied(video) - 1m24s
+Satisfied(video) - 1m27s
+Satisfied(video) - 1m30s
+Satisfied(video) - 2m1s
+Satisfied(video) - 2m3s
+Satisfied(video) - 3m1s
+Satisfied(video) - 3m3s
+Satisfied(video) - 3m19s
+Satisfied(video) - 3m24s
+Satisfied(video) - 3m27s
+Positive (speech) - 0m3s
+Positive (speech) - 0m22s
+Positive (speech) - 0m30s
+Positive (speech) - 4m6s","Negative (speech) - 0m42s
+Negative (speech) - 3m49s
+Negative (speech) - 3m56s
+Negative (speech) - 4m0s",14:00:27,14:26:35,[Anonymized],[Anonymized],[Anonymized],4,1,5,4,1,1,5,1,4,4,1
+[Anonymized],[Anonymized],[Anonymized],[Anonymized],Describe what UXAPP is and what it is for,1/25/2024 9:19:06 PM,Neutral,1/25/2024 21:32:30,Negative,No,DONE,Disagree,Neither agree nor disagree,Agree,Agree,Agree,Disagree,Neither agree nor disagree,Agree,Agree,Agree,Neither satisfied nor dissatisfied,AFTER A FEW MINUTES OF OBSERVING THE SITE.,WEBSITE IS NOT LOADING DUE TO ENGLISH TEXT. (LANGUAGE WITH BASIC LEVEL OF KNOWLEDGE).,Neutral,Neutral,Negative,Neither satisfied nor dissatisfied,Neither good nor poor,Positive (speech) - 0m42s,Negative (speech) - 1m0s,50,37.5,"Positive (speech) - 0m30s
+Positive (speech) - 0m42s","Negative (speech) - 0m9s
+Negative (speech) - 0m25s
+Negative (speech) - 1m0s
+Negative (speech) - 1m33s
+Negative (speech) - 2m40s
+Negative (speech) - 3m1s
+Negative (speech) - 3m28s
+Negative (speech) - 3m48s",14:15:22,14:36:02,[Anonymized],[Anonymized],[Anonymized],3,3,3,4,2,3,2,3,1,3,1
+[Anonymized],[Anonymized],[Anonymized],[Anonymized],REQUEST AN INVITATION TO INSTALL UXAPP,1/25/2024 9:40:54 PM,Positive,1/25/2024 21:48:10,Neutral,No,DONE,Neither agree nor disagree,Neither agree nor disagree,Agree,Agree,Agree,Agree,Neither agree nor disagree,Neither agree nor disagree,Disagree,Agree,Dissatisfied,THE MOMENT I LOCATED WHERE TO REQUEST THE INVITATION.,WHEN THE EMAIL WAS REJECTED.,Neutral,Poor,Negative,Neither satisfied nor dissatisfied,Poor,,Negative (speech) - 2m17s,45,17.5,None,"Negative (speech) - 1m51s
+Negative (speech) - 2m17s
+Negative (speech) - 2m30s
+Negative (speech) - 2m51s",15:56:23,16:11:03,[Anonymized],[Anonymized],[Anonymized],2,5,2,4,2,5,2,4,1,4,1
+[Anonymized],[Anonymized],[Anonymized],[Anonymized],Get a usability test script,1/25/2024 9:51:25 PM,Positive,1/25/2024 22:02:55,Negative,No,DONE,Disagree,Agree,Disagree,Agree,Disagree,Agree,Disagree,Strongly agree,Disagree,Agree,Very unsatisfied,"WHEN LOADING, I THOUGHT I WOULD GET THE INFORMATION WITH EASE.",WHEN I DISCOVERED THAT I WASN'T GOING TO FIND WHAT I WAS LOOKING FOR DURING BROWSING. I GOT ANGRY WHEN I COULD NOT FIND THE INFORMATION.,Poor,Poor,Neutral,Satisfied,Neither good nor poor,"Satisfied(video) - 5m6s
+Satisfied(video) - 5m6s
+Satisfied(video) - 5m18s
+Positive (speech) - 2m58s",Negative (speech) - 0m19s,22.5,30,"Satisfied(video) - 4m36s
+Satisfied(video) - 4m39s
+Satisfied(video) - 5m1s
+Satisfied(video) - 5m3s
+Satisfied(video) - 5m6s
+Satisfied(video) - 5m9s
+Satisfied(video) - 5m13s
+Satisfied(video) - 5m15s
+Satisfied(video) - 5m18s
+Satisfied(video) - 5m21s
+Positive (speech) - 2m58s
+Positive (speech) - 4m33s","Negative (speech) - 0m19s
+Negative (speech) - 0m30s
+Negative (speech) - 1m42s
+Negative (speech) - 2m0s
+Negative (speech) - 2m16s
+Negative (speech) - 3m8s
+Negative (speech) - 4m0s
+Negative (speech) - 4m24s
+Negative (speech) - 4m48s
+Negative (speech) - 5m0s
+Negative (speech) - 5m12s",14:15:29,14:42:11,[Anonymized],[Anonymized],[Anonymized],1,3,2,4,2,3,1,5,5,4,1
+[Anonymized],[Anonymized],[Anonymized],[Anonymized],Share the UXAPP website,1/25/2024 10:07:11 PM,Negative,1/25/2024 22:10:16,Positive,Yes,DONE,Agree,Disagree,Agree,Disagree,Agree,Disagree,Agree,Disagree,Agree,Disagree,Very satisfied,I WAS HAPPY TO EASILY FIND WHERE TO SHARE THE PAGE.,THERE WERE NO NEGATIVE FEELINGS DURING NAVIGATION.,Good,Good,Positive,Neither satisfied nor dissatisfied,Good,Positive (speech) - 0m41s,,75,80,"Positive (speech) - 0m16s
+Positive (speech) - 0m41s",None,15:56:53,16:02:37,[Anonymized],[Anonymized],[Anonymized],5,2,4,2,4,2,5,2,4,2,1
+[Anonymized],[Anonymized],[Anonymized],[Anonymized],Describe what UXAPP is and what it is for.,1/27/2024 3:22:44 PM,Positive,1/27/2024 15:45:48,Negative,No,DONE,Agree,Disagree,Agree,Agree,Agree,Agree,Agree,Disagree,Disagree,Strongly disagree,Dissatisfied,Have a roadmap on how to use the website.,Unable to register.,Neutral,Poor,Neutral,Satisfied,Neither good nor poor,"Satisfied(video) - 4m0s
+Satisfied(video) - 4m3s
+Satisfied(video) - 4m57s
+Satisfied(video) - 6m0s
+Satisfied(video) - 10m39s
+Satisfied(video) - 10m42s
+Positive (speech) - 0m3s",Negative (speech) - 10m25s,62.5,20,"Satisfied(video) - 4m0s
+Satisfied(video) - 4m3s
+Satisfied(video) - 4m6s
+Satisfied(video) - 4m9s
+Satisfied(video) - 4m57s
+Satisfied(video) - 5m15s
+Satisfied(video) - 5m25s
+Satisfied(video) - 5m28s
+Satisfied(video) - 5m58s
+Satisfied(video) - 6m0s
+Satisfied(video) - 6m6s
+Satisfied(video) - 7m37s
+Satisfied(video) - 7m40s
+Satisfied(video) - 7m42s
+Satisfied(video) - 8m15s
+Satisfied(video) - 10m33s
+Satisfied(video) - 10m37s
+Satisfied(video) - 10m39s
+Satisfied(video) - 10m42s
+Positive (speech) - 0m3s
+Positive (speech) - 2m41s
+Positive (speech) - 5m42s
+Positive (speech) - 8m59s","Negative (speech) - 1m5s
+Negative (speech) - 1m30s
+Negative (speech) - 1m49s
+Negative (speech) - 2m54s
+Negative (speech) - 3m0s
+Negative (speech) - 3m8s
+Negative (speech) - 3m30s
+Negative (speech) - 4m19s
+Negative (speech) - 4m24s
+Negative (speech) - 5m27s
+Negative (speech) - 5m48s
+Negative (speech) - 6m28s
+Negative (speech) - 6m37s
+Negative (speech) - 7m21s
+Negative (speech) - 7m29s
+Negative (speech) - 7m42s
+Negative (speech) - 7m58s
+Negative (speech) - 8m12s
+Negative (speech) - 8m24s
+Negative (speech) - 8m42s
+Negative (speech) - 9m12s
+Negative (speech) - 10m18s
+Negative (speech) - 10m25s
+Negative (speech) - 10m41s",15:57:26,16:42:58,[Anonymized],[Anonymized],[Anonymized],1,4,2,4,2,5,2,4,2,4,1
+[Anonymized],[Anonymized],[Anonymized],[Anonymized],Request an invitation to install UXAPP,1/27/2024 3:46:27 PM,Positive,1/27/2024 15:54:09,Negative,No,DONE,Disagree,Disagree,Disagree,Agree,Disagree,Strongly disagree,Neither agree nor disagree,Disagree,Agree,Strongly disagree,Neither satisfied nor dissatisfied,Find the place to order,When the order didn't work.,Neutral,Poor,Negative,Satisfied,Neither good nor poor,"Satisfied(video) - 3m36s
+Satisfied(video) - 3m36s
+Positive (speech) - 1m19s","Negative (speech) - 0m38s
+Negative (speech) - 3m31s",57.5,22.5,"Satisfied(video) - 3m34s
+Satisfied(video) - 3m36s
+Satisfied(video) - 3m39s
+Positive (speech) - 1m19s","Negative (speech) - 0m38s
+Negative (speech) - 1m0s
+Negative (speech) - 2m2s
+Negative (speech) - 2m39s
+Negative (speech) - 3m6s
+Negative (speech) - 3m13s
+Negative (speech) - 3m20s
+Negative (speech) - 3m25s
+Negative (speech) - 3m31s",14:35:31,14:51:13,[Anonymized],[Anonymized],[Anonymized],2,4,2,4,2,5,2,4,2,4,1
+[Anonymized],[Anonymized],[Anonymized],[Anonymized],Get a usability test script,1/27/2024 3:56:12 PM,Neutral,1/27/2024 16:05:59,Negative,No,DONE,Strongly disagree,Disagree,Strongly disagree,Agree,Disagree,Strongly agree,Disagree,Agree,Strongly disagree,Strongly disagree,Very unsatisfied,None,"all the time, especially because I am unable to register",Poor,Neutral,Negative,Neither satisfied nor dissatisfied,Neither good nor poor,Positive (speech) - 4m0s,Negative (speech) - 4m26s,27.5,45,Positive (speech) - 4m0s,"Negative (speech) - 0m16s
+Negative (speech) - 0m30s
+Negative (speech) - 1m3s
+Negative (speech) - 2m5s
+Negative (speech) - 2m23s
+Negative (speech) - 2m30s
+Negative (speech) - 4m13s
+Negative (speech) - 4m26s
+Negative (speech) - 4m30s",14:35:17,14:56:17,[Anonymized],[Anonymized],[Anonymized],5,4,4,4,2,5,2,2,2,2,1
+[Anonymized],[Anonymized],[Anonymized],[Anonymized],Share the UXAPP website,1/27/2024 4:23:17 PM,Negative,1/27/2024 16:33:55,Positive,Yes,DONE,Strongly agree,Disagree,Disagree,Disagree,Strongly agree,Strongly disagree,Strongly agree,Strongly disagree,Strongly agree,Strongly disagree,Satisfied,"When I found where to share, and when I supposedly managed to share",There is a notice missing at the end that was successfully shared.,Good,Neutral,Neutral,Satisfied,Neither good nor poor,"Satisfied(video) - 6m15s
+Positive (speech) - 2m6s",Negative (speech) - 0m40s,87.5,45,"Satisfied(video) - 6m15s
+Positive (speech) - 2m6s
+Positive (speech) - 3m7s","Negative (speech) - 0m40s
+Negative (speech) - 1m30s
+Negative (speech) - 3m23s
+Negative (speech) - 5m16s
+Negative (speech) - 5m51s",14:35:01,15:01:11,[Anonymized],[Anonymized],[Anonymized],3,3,2,3,3,3,3,4,3,3,1
